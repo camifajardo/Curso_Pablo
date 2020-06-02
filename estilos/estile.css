@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding:0;
+ } 
+
+ .bloque
+ {
+     background-color:black;
+     color: white;
+ }entiendo
+.Link
+{
+text-decoration: none !important;
+}
